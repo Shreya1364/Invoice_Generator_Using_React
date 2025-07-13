@@ -41,7 +41,7 @@ A responsive and customizable **React-based Invoice Generator** built to create,
 | React       | Frontend library             |
 | html-to-image | Converts invoice to image   |
 | jsPDF       | Generates PDF from invoice   |
-   |
+   
 
 ---
 
