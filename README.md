@@ -52,14 +52,6 @@ npm install
 # 4. Start the development server
 npm start
 
-invoice-generator/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   ├── App.js
-│   └── index.js
-├── package.json
-├── .gitignore
-└── README.md
+Then open:
+📍 http://localhost:3000 in your browser.
 
