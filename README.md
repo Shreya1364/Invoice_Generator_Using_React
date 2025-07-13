@@ -49,7 +49,7 @@ A responsive and customizable **React-based Invoice Generator** built to create,
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/invoice-generator
+git clone https://github.com/Shreya1364/Invoice_Generator_Using_React.git
 
 # 2. Navigate into the folder
 cd invoice-generator
