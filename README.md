@@ -11,11 +11,14 @@ A responsive and customizable **React-based Invoice Generator** built to create,
 ## 📸 Demo Preview
 
 ![Invoice]
-<img src="https://github.com/user-attachments/assets/4c11f5fe-9357-477c-8c39-c7b2810255b1" width="600"/>
-![Invoice1](https://github.com/user-attachments/assets/f399ef8f-df5d-41ab-8a2a-90b046d2c966)
+<img src="https://github.com/user-attachments/assets/4c11f5fe-9357-477c-8c39-c7b2810255b1" width="400"/>
+![Invoice1]
+<img src="https://github.com/user-attachments/assets/f399ef8f-df5d-41ab-8a2a-90b046d2c966" width="400"/>
 
-![output1](https://github.com/user-attachments/assets/0034f9e4-456f-4b04-96b2-ba868abaf3d2)
-![Output](https://github.com/user-attachments/assets/11a7b87c-517c-40d8-b3d2-c06757ceedeb)
+![output1]
+<img src="https://github.com/user-attachments/assets/0034f9e4-456f-4b04-96b2-ba868abaf3d2" width="400"/>
+![Output]
+<img src="https://github.com/user-attachments/assets/11a7b87c-517c-40d8-b3d2-c06757ceedeb" width="400"/>
 
 
 ---
