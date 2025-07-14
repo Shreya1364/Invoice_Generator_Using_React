@@ -27,8 +27,8 @@ A responsive and customizable **React-based Invoice Generator** built to create,
 
 ✅ Add customer details  
 ✅ Add multiple invoice items  
-✅ Auto-calculate totals (subtotal, tax, grand total)  
-✅ Responsive design (mobile-friendly)  
+✅ Auto-calculate totals (subtotal, tax, grand total,discount total)  
+✅ Responsive design
 ✅ Preview invoice in real-time  
 ✅ Download invoice as **PDF** or **Image**
 
